@@ -1,0 +1,9 @@
+M by N : 20 13
+steps: 100
+robots: 6
+RoboCop Alpha random random
+Terminator Beta random random
+BlueThunder Gamma random random
+RoboTank Delta random random
+UltimateRobot Epsilon random random
+FrogRobot Pina random random 
